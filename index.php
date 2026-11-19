@@ -5,7 +5,7 @@ include __DIR__ . '/inc/header.inc.php';
 
 
 </div>
-<div class="text-danger ">
+<div >
     <h1>O que deseja fazer hoje?</h1>
     <h2>Quarta-feira, dia 11 de novembro de 2026</h2>
 </div>
@@ -68,7 +68,7 @@ include __DIR__ . '/inc/header.inc.php';
             <div class="card border-0 shadow-sm rounded-4 p-3">
                 <div class="card-body">
                     <p class="text-muted mb-2">Acessos hoje</p>
-                    <h2 class="fw-bold text-primary mb-1">27</h2>
+                    <h2 class="fw-bold text-primary mb-1">4</h2>
                     <small class="text-muted">Acessos registrados no sistema</small>
                 </div>
             </div>
