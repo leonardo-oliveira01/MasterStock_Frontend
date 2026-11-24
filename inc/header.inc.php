@@ -47,7 +47,7 @@
                                 </li>
 
                                 <li>
-                                    <a class="text-white dropdown-item link-primary" href="retirarProduto.php">
+                                    <a class="text-white dropdown-item link-primary" href="removerProduto.php">
                                         Retirar produto
                                     </a>
                                 </li>
@@ -63,7 +63,7 @@
 
                         <li class="nav-item">
                             <a class="nav-link text-light" href="funcionarios.php">
-                                Funcionários
+                                Fornecedores
                             </a>
                         </li>
 

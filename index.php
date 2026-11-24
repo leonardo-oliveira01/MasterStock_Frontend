@@ -5,7 +5,7 @@ include __DIR__ . '/inc/header.inc.php';
 
 
 </div>
-<div >
+<div>
     <h1>O que deseja fazer hoje?</h1>
     <h2>Quarta-feira, dia 11 de novembro de 2026</h2>
 </div>
@@ -24,7 +24,7 @@ include __DIR__ . '/inc/header.inc.php';
         <img src="img\add.png" class="d-flex w-90" height="110" alt="Adicionar produto">
     </div>
 
-    <div class="card d-flex flex-row justify-content-start w-25 mb-5">
+    <div class="card d-flex flex-row justify-content-start w-25 mb-2">
         <a href="removerProduto.php">
 
             <button class="btn btn-primary">
@@ -35,6 +35,12 @@ include __DIR__ . '/inc/header.inc.php';
         </a>
         <img src="img\remover.png" class="d-flex w-70" height="100" alt="remover produto">
     </div>
+    
+    <div class="text-center mt-2">
+    <button class="btn btn-primary">
+        Sugestões do dia
+    </button>
+</div>
 
 </div>
 
@@ -73,6 +79,6 @@ include __DIR__ . '/inc/header.inc.php';
                 </div>
             </div>
         </div>
-
+        
     </div>
 </div>
